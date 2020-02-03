@@ -1,14 +1,13 @@
 ---
 layout: page
-title: About
+title: The Azure Guy
 ---
 
-This is an about page about this awesome site.
-Hope you love it!
+Tech blog for Azure
+Hope you enjoy!
 
 Reasons:
-- its great.
-- its a test.
+- Everything you need to know from inside out
 
 ## Other thoughts
 
