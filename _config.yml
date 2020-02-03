@@ -1,10 +1,10 @@
 # basic options
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
-description: A wonderful site
-twitter_username: jekyllrb
-github_username:  jekyll
+title: The Azuy Guy
+author: Felipe Nascimento
+email: felipe@theazureguy.com
+description: Azure from the Inside Out
+twitter_username: felipefn88
+github_username:  fedonasc
 
 # Build settings
 markdown: kramdown
